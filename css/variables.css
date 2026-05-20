@@ -1,0 +1,88 @@
+/* ============================================
+   Design Tokens
+   ============================================ */
+
+:root {
+    /* === Colors === */
+    --c-ink: #0A0E1A;
+    --c-ink-soft: #1A1F2E;
+    --c-paper: #FAFAF7;
+    --c-paper-warm: #F5F1EB;
+    --c-paper-tint: #EFEAE0;
+    --c-line: #E5E0D5;
+    --c-line-strong: #2A2F3E;
+
+    /* Brand - matched to CRE-UP logo gradient (cyan → purple) */
+    --c-brand: #3BAEEA;          /* logo cyan blue */
+    --c-brand-deep: #2680C2;
+    --c-purple: #9B6DD1;          /* logo purple */
+    --c-purple-deep: #6F3FA8;
+    --c-accent: #FF6B35;          /* warm accent for CTAs */
+    --c-accent-soft: #FFB199;
+    --c-mint: #A8E6CF;
+    --c-lavender: #C7B8EA;
+    --c-rose: #FFD3D3;
+
+    /* Signature gradient */
+    --grad-brand: linear-gradient(90deg, #3BAEEA 0%, #9B6DD1 100%);
+    --grad-brand-vivid: linear-gradient(135deg, #3BAEEA 0%, #6F3FA8 100%);
+
+    /* Text */
+    --c-text: #1A1F2E;
+    --c-text-soft: #5A6175;
+    --c-text-mute: #8B91A0;
+    --c-text-invert: #FAFAF7;
+
+    /* === Typography === */
+    --f-sans: 'Pretendard Variable', Pretendard, -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+    --f-display: 'Pretendard Variable', Pretendard, -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+    --f-mono: 'JetBrains Mono', 'Pretendard Variable', monospace;
+
+    /* === Spacing === */
+    --s-1: 4px;
+    --s-2: 8px;
+    --s-3: 12px;
+    --s-4: 16px;
+    --s-5: 24px;
+    --s-6: 32px;
+    --s-7: 48px;
+    --s-8: 64px;
+    --s-9: 96px;
+    --s-10: 128px;
+
+    /* === Radius === */
+    --r-sm: 6px;
+    --r-md: 12px;
+    --r-lg: 20px;
+    --r-xl: 32px;
+    --r-pill: 999px;
+
+    /* === Shadow === */
+    --sh-sm: 0 1px 2px rgba(10, 14, 26, 0.04), 0 1px 3px rgba(10, 14, 26, 0.06);
+    --sh-md: 0 4px 16px rgba(10, 14, 26, 0.06), 0 2px 6px rgba(10, 14, 26, 0.04);
+    --sh-lg: 0 24px 48px -12px rgba(10, 14, 26, 0.12), 0 8px 16px -4px rgba(10, 14, 26, 0.06);
+    --sh-xl: 0 48px 96px -24px rgba(10, 14, 26, 0.18), 0 16px 32px -8px rgba(10, 14, 26, 0.08);
+
+    /* === Easing === */
+    --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+    --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+
+    /* === Layout === */
+    --nav-h: 72px;
+    --container-max: 1240px;
+    --container-pad: 24px;
+}
+
+/* === Base === */
+body {
+    font-family: var(--f-sans);
+    font-size: 16px;
+    color: var(--c-text);
+    background: var(--c-paper);
+    overflow-x: hidden;
+}
+
+::selection {
+    background: var(--c-ink);
+    color: var(--c-paper);
+}
