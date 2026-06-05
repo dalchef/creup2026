@@ -368,6 +368,8 @@
     transition: transform 0.3s var(--ease-out);
 }
 
+
+
 .marquee__track img:hover {
     transform: scale(1.05);
 }
@@ -681,6 +683,17 @@
     object-fit: contain;
 }
 
+/* Tatler SVG: black logo on white background */
+.partner-card__logo img[src$="tatler-new.svg"],
+.marquee__track img[src$="tatler-new.svg"],
+.modal__logo[src$="tatler-new.svg"] {
+    background: #ffffff;
+    border-radius: 4px;
+    padding: 5px 10px;
+}
+
+
+
 .partner-card__head {
     display: flex;
     justify-content: space-between;
@@ -828,6 +841,8 @@
     margin-bottom: var(--s-4);
     display: block;
 }
+
+
 
 .modal__title {
     font-family: var(--f-display);
