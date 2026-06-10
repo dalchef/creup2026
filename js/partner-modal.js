@@ -94,28 +94,32 @@
 
         sunwah: {
             name: 'Sunwah Inno',
-            subtitle: 'Hong Kong · Innovation Center',
+            subtitle: 'Vietnam · Innovation Center',
             logo: 'assets/partner-sunwah-new.png',
+            intro: {
+                ko: '선와 그룹(Sunwah Group)은 홍콩에 본사를 둔 글로벌 복합기업으로, 베트남에서 55년 이상 사업을 운영해 왔습니다. 부동산, 금융서비스, 식품, 기술, 혁신 분야 등 다양한 산업에서 사업을 전개하고 있으며, 아시아 전역의 비즈니스, 투자, 시장 진출 기회를 연결하는 가교 역할을 수행하고 있습니다.',
+                en: 'Sunwah Group is a Hong Kong-based conglomerate with 55 years in Vietnam, operating in real estate, financial services, food, technology, and innovation, while bridging business, investment, and market opportunities across Asia.'
+            },
             topics: [
                 {
-                    title: { ko: '미디어·콘텐츠·엔터테인먼트 스타트업 발굴', en: 'Media, Content & Entertainment Startup Discovery' },
+                    title: { ko: '콘텐츠·커머스·커뮤니티를 통한 아시아 시장 연결', en: 'Bridging Asia through Content, Commerce, and Community' },
                     desc: {
-                        ko: '미디어·게임·OTT·여행 분야 스타트업을 발굴하고 대기업과 연결하는 플랫폼, AI 기반 스타트업 소싱 및 분석, 글로벌 IP 및 콘텐츠 파트너 매칭, 그룹사 연계 오픈이노베이션 관리 시스템에 관심 있습니다. 아시아 콘텐츠 시장을 대상으로 혁신 파이프라인을 구축하는 솔루션을 찾습니다.',
-                        en: 'We are interested in platforms that discover and connect startups in media, gaming, OTT, and travel with large enterprises, AI-powered startup sourcing and analysis, global IP and content partner matching, and open innovation management systems linked to group affiliates. We seek solutions that build innovation pipelines targeting the Asian content market.'
+                        ko: '기술이 어떻게 기업이 아시아 시장 전반에서 브랜드를 현지화하고, 새로운 고객을 확보하며, 신뢰를 구축하고, 지속 가능한 커뮤니티를 형성하도록 도울 수 있을까요? 콘텐츠와 크리에이터 생태계, 디지털 참여는 국가 간 비즈니스 확장과 시장 진출의 핵심 수단으로 자리잡고 있습니다.\n\n탐색 가능한 영역: 브랜드 및 제품 현지화, 국가 간 커뮤니티 구축, 해외 시장 진출 지원, 문화 교류 활성화, 신규 오디언스 연결, 콘텐츠의 글로벌 사업화 및 수익화',
+                        en: 'How can technology help businesses localize their brands, build trust, engage new audiences, and create sustainable communities across Asian markets? Content, creator ecosystems, and digital engagement are becoming critical tools for cross-border growth and market expansion.\n\nAreas of interest: brand and product localization, cross-border community building, international market entry, cultural exchange, audience development, and content commercialization across multiple markets.'
                     }
                 },
                 {
-                    title: { ko: '콘텐츠/IP 수익화 및 글로벌 사업화', en: 'Content/IP Monetization & Global Commercialization' },
+                    title: { ko: '커뮤니티·라이프스타일·경험 혁신을 통한 상업용 부동산 활성화', en: 'Activating Commercial Real Estate through Community, Lifestyle, and Experience Innovation' },
                     desc: {
-                        ko: '콘텐츠 IP 라이선싱 플랫폼, 글로벌 공동제작(Co-production) 매칭, 브랜드 콘텐츠 및 디지털 유통 솔루션, 콘텐츠 수익 분석 및 시장 수요 예측, 권리 관리 및 IP 상용화 인프라에 관심 있습니다. 아시아 시장을 대상으로 한 콘텐츠 사업화 기술을 찾습니다.',
-                        en: 'We are interested in content IP licensing platforms, global co-production matching, brand content and digital distribution solutions, content revenue analytics and market demand forecasting, and rights management and IP commercialization infrastructure targeting the Asian market.'
+                        ko: '기술이 어떻게 상업용 건물과 복합개발 공간이 단순한 물리적 공간을 넘어 활발한 커뮤니티와 차별화된 고객 경험을 제공하도록 도울 수 있을까요? 부동산 소유주와 운영사는 방문객 유치, 입주사 참여 강화, 신규 수익 창출을 위해 다양한 라이프스타일 경험과 커뮤니티 기반 서비스를 필요로 하고 있습니다.\n\n탐색 가능한 영역: 스마트 커뮤니티 및 멤버십 플랫폼, 이벤트·체험형 참여 기술, 온·오프라인 연계 커뮤니티 솔루션, 인터랙티브 콘텐츠 플랫폼, AI 기반 고객·입주사 참여 솔루션, 뷰티·패션·웰니스 커뮤니티, 크리에이터 및 브랜드 협업 플랫폼, 체험형 리테일, 문화·교육·혁신 허브 구축',
+                        en: 'How can technology help commercial buildings and mixed-use developments evolve beyond physical spaces into vibrant communities and experience-driven destinations? Property owners and operators are increasingly seeking new ways to attract visitors, engage tenants, and generate new revenue opportunities through lifestyle experiences and community participation.\n\nAreas of interest: smart community and membership platforms, event and experiential engagement technologies, hybrid online-offline community solutions, interactive content platforms, AI-powered customer and tenant engagement tools, beauty, fashion, wellness, and lifestyle communities, creator and brand collaboration platforms, experiential retail concepts, and cultural, educational, and innovation hub experiences.'
                     }
                 },
                 {
-                    title: { ko: '광고·스폰서십 및 브랜드 파트너십 운영', en: 'Advertising, Sponsorship & Brand Partnership Management' },
+                    title: { ko: '지속가능한 농식품 산업을 위한 디지털 전환 및 글로벌 시장 확대', en: 'Digital Transformation and Global Market Expansion for Sustainable Agriculture Industries' },
                     desc: {
-                        ko: '광고·스폰서십 통합 운영 플랫폼, 이벤트·미디어 대상 오디언스 데이터 분석, 브랜드-스폰서 자동 매칭, 광고 성과 측정 및 브랜드 세이프티 관리, 제안서 자동 생성 및 세일즈 지원, 그룹 내 다양한 자산을 연계한 광고 패키지 솔루션에 관심 있습니다.',
-                        en: 'We are interested in integrated advertising and sponsorship management platforms, audience data analytics for events and media, automated brand-sponsor matching, ad performance measurement and brand safety management, automated proposal generation, and advertising package solutions that leverage diverse group assets.'
+                        ko: '기술이 어떻게 농식품 생산자들이 생산성을 향상시키고, 공급망 투명성을 확보하며, 지속가능성을 강화하고, 글로벌 시장으로 진출하도록 도울 수 있을까요? 특히 베트남을 비롯한 농식품 산업은 디지털 전환과 데이터 기반 운영을 통해 새로운 성장 기회를 모색하고 있습니다.\n\n탐색 가능한 영역: AI 기반 양식업 및 식품 생산 기술, 공급망 추적 및 투명성 확보 솔루션, 지속가능한 농업 기술, 식품 품질 관리 디지털 솔루션, 콘텐츠와 스토리텔링을 활용한 소비자 신뢰 구축, 농식품의 해외 시장 진출 지원',
+                        en: 'How can technology help agricultural and food producers improve productivity, increase supply chain transparency, strengthen sustainability, and expand into international markets? Emerging technologies are creating new opportunities for data-driven operations and higher-value food ecosystems, particularly in rapidly growing agricultural markets such as Vietnam.\n\nAreas of interest: AI applications for aquaculture and food production, traceability and supply chain transparency solutions, sustainable farming technologies, food quality management platforms, consumer trust-building through content and storytelling, and international market access solutions for food and agricultural products.'
                     }
                 }
             ]
@@ -127,24 +131,31 @@
             logo: 'assets/partner-tatler-new.svg',
             topics: [
                 {
-                    title: { ko: '콘텐츠·오디언스 소유권·배포 전략', en: 'Content, Audience Ownership & Distribution' },
+                    title: { ko: '한국 시장 진출 및 브랜드 성장', en: 'Korean Market Entry & Brand Growth' },
                     desc: {
-                        ko: '(a) 프리미엄 미디어 브랜드가 제3자 소셜 플랫폼 의존도를 줄이고, 고가치 독자와 더 직접적인 퍼스트파티 관계를 구축할 수 있을까요? 오디언스 인텔리전스, 개인화, 뉴스레터/커뮤니티 전환, CRM 강화, 콘텐츠 추천, 소셜→자사 오디언스 유입, 프라이버시 안전 데이터 수집 등의 솔루션에 관심 있습니다.\n\n(b) AI를 활용해 레거시 미디어 브랜드가 기사·사진·영상·프로필·커버·이벤트 취재·문화 IP 등 아카이브 자산의 가치를 새롭게 발굴할 수 있을까요? 아카이브 태깅, 시맨틱 검색, 콘텐츠 재가공, 권리 인식 자산 관리, AI 리서치, 라이선싱, 신규 에디토리얼 상품 개발 등이 포함됩니다.',
-                        en: '(a) How can premium media brands reduce dependency on third-party social platforms and build more direct, first-party relationships with high-value audiences? Ideas include audience intelligence, personalization, newsletter/community conversion, CRM enrichment, content recommendation, social-to-owned funnels, and privacy-safe data capture.\n\n(b) How can AI help legacy media brands unlock the value of their archives — editorial, photography, video, profiles, covers, event coverage, and cultural IP — so they become searchable, reusable, monetizable, and relevant for new audiences? This could include archive tagging, semantic search, content repackaging, rights-aware asset management, AI-assisted research, licensing, and new editorial products.'
+                        ko: '기술은 Tatler가 한국 시장에서 브랜드 인지도를 구축하고, 프리미엄 독자층을 확보하는 데 어떻게 기여할 수 있을까요?\n언어 장벽과 문화적 차이, 현지 플랫폼 환경을 효과적으로 극복하면서도 Tatler의 프리미엄 브랜드 가치와 에디토리얼 권위를 유지할 수 있는 솔루션을 찾고 있습니다.\n\n탐색 가능한 영역: 콘텐츠 현지화, 한국 소셜 플랫폼 연계, 오디언스 인텔리전스, 문화 맞춤형 콘텐츠 제작, KOL·인플루언서 발굴, 커뮤니티 구축 및 전환, 데이터 기반 독자 분석',
+                        en: 'How can technology help Tatler build brand awareness and grow a qualified premium audience in the Korean market?\nWe are looking for solutions that can help overcome language barriers, cultural nuances, and local platform dynamics while maintaining Tatler\'s premium positioning and editorial authority.\n\nAreas of interest: content localization, Korean social platform integration, audience intelligence, culturally adapted content creation, KOL and influencer discovery, community building and conversion, and data-driven audience insights.'
                     }
                 },
                 {
-                    title: { ko: '커뮤니티 및 글로벌 오디언스 연결', en: 'Community and Cross-Market Engagement' },
+                    title: { ko: '커뮤니티 및 아시아 시장 간 참여 확대', en: 'Community Building & Cross-Market Engagement' },
                     desc: {
-                        ko: '콘텐츠가 커뮤니티를, 커뮤니티가 경험을, 경험이 더 깊은 오디언스 인사이트와 로열티를 만드는 생태계를 구축하는 데 기술이 어떻게 기여할 수 있을까요? AI와 미디어 기술이 아시아 전역의 문화·언어·지역 경계를 넘어 Tatler의 프리미엄 톤, 로컬 감성, 에디토리얼 권위를 유지하면서 연결할 수 있는 방법에 관심 있습니다.',
-                        en: 'How can technology help Tatler create an ecosystem where content drives community, community drives experiences, and experiences generate deeper audience insight and loyalty? How can AI and media technology help bridge cultures, languages, and geographies across Asia while maintaining Tatler\'s premium tone, local relevance, and editorial authority?'
+                        ko: '기술은 콘텐츠를 중심으로 커뮤니티를 형성하고, 커뮤니티가 다양한 경험으로 확장되며, 이를 통해 더 깊은 고객 인사이트와 충성도를 창출하는 생태계를 구축하는 데 어떻게 기여할 수 있을까요?\nAI와 미디어 기술은 아시아 각국의 문화와 언어, 시장 환경을 연결하면서도 Tatler의 프리미엄 이미지와 현지 적합성을 유지하는 데 어떻게 활용될 수 있을까요?\n\n탐색 가능한 영역: 커뮤니티 플랫폼, 회원 참여 분석, AI 기반 개인화, 다국어 콘텐츠 경험, 국가 간 네트워킹, 프리미엄 멤버십 운영, 고객 인사이트 분석',
+                        en: 'How can technology help create an ecosystem where content builds community, community creates meaningful experiences, and those experiences generate deeper audience insights and loyalty?\nWe are also interested in how AI and media technologies can connect audiences across different cultures, languages, and markets throughout Asia while preserving Tatler\'s premium brand image, local relevance, and editorial standards.\n\nAreas of interest: community platforms, member engagement analytics, AI-powered personalization, multilingual content experiences, cross-market networking, premium membership programs, and audience intelligence solutions.'
                     }
                 },
                 {
-                    title: { ko: '프리미엄 이벤트 & 경험 테크', en: 'Experiences and Event Technology' },
+                    title: { ko: '콘텐츠 자산화 및 오디언스 직접 확보', en: 'Content Ownership & Audience Development' },
                     desc: {
-                        ko: '이벤트 기술이 티켓팅·초청·등록·체크인·룸 배정·오디언스 자격 심사·라이브 인게이지먼트부터 행사 후 클라이언트 리포팅까지, 복잡한 멀티트랙 프리미엄 이벤트를 더 스마트하게 관리하도록 도울 수 있을까요? VIP 경험 최적화와 운영 효율화를 동시에 달성하는 솔루션에 관심 있습니다.',
-                        en: 'How can event technology help Tatler manage complex, multi-track premium experiences more intelligently — from ticketing, invitations, registration, check-in, room allocation, audience qualification, and live engagement to post-event client reporting? We are interested in solutions that optimize VIP experiences while improving operational efficiency.'
+                        ko: '가. 오디언스 자산화 및 직접 관계 구축\n프리미엄 미디어 브랜드는 어떻게 제3자 플랫폼 의존도를 줄이고, 핵심 독자 및 고객과 직접적인 관계를 구축할 수 있을까요?\n탐색 가능한 영역: 오디언스 인텔리전스, CRM 고도화, 개인화 추천, 뉴스레터 및 커뮤니티 전환, 소셜 채널 유입 분석, 자체 플랫폼 활성화, 개인정보 보호 기반 데이터 수집\n\n나. AI 기반 콘텐츠 아카이브 활용\nAI는 Tatler가 보유한 기사, 사진, 영상, 인물 데이터, 커버 이미지, 이벤트 콘텐츠 등 다양한 콘텐츠 자산을 보다 효과적으로 활용하는 데 어떻게 기여할 수 있을까요?\n탐색 가능한 영역: 콘텐츠 아카이브 태깅, 시맨틱 검색, AI 기반 콘텐츠 재가공, 디지털 자산 관리, 콘텐츠 라이선싱, 개인화 콘텐츠 제공, 신규 에디토리얼 상품 개발',
+                        en: 'A. Audience Ownership & Direct Relationships\nHow can premium media brands reduce their dependence on third-party platforms and build stronger direct relationships with high-value audiences?\nAreas of interest: audience intelligence, CRM enhancement, personalized recommendations, newsletter and community conversion, social-to-owned audience funnels, first-party data strategies, and privacy-safe audience engagement.\n\nB. AI-Powered Content Archive Utilization\nHow can AI help Tatler unlock greater value from its extensive archive of editorial content, photography, video assets, profiles, magazine covers, event coverage, and cultural IP?\nAreas of interest: archive tagging, semantic search, AI-assisted content repurposing, digital asset management, content licensing, personalized content experiences, and new editorial product development.'
+                    }
+                },
+                {
+                    title: { ko: '프리미엄 이벤트 및 경험 기술', en: 'Premium Experiences & Event Technology' },
+                    desc: {
+                        ko: '기술은 Tatler가 운영하는 다양한 프리미엄 행사와 고객 경험을 더욱 효율적이고 지능적으로 관리하는 데 어떻게 기여할 수 있을까요?\n행사 기획부터 참가자 관리, 현장 운영, 사후 분석까지 전 과정을 개선할 수 있는 솔루션을 찾고 있습니다.\n\n탐색 가능한 영역: 초청 및 RSVP 관리, 티켓팅, 등록 및 체크인, 좌석·공간 배치, 참가자 매칭, 실시간 참여 분석, 이벤트 데이터 수집, 행사 성과 리포팅, 고객 인사이트 분석',
+                        en: 'How can technology help Tatler manage premium events and experiences more intelligently and efficiently?\nWe are looking for solutions that improve the entire event lifecycle, from planning and audience management to on-site operations and post-event reporting.\n\nAreas of interest: invitation and RSVP management, ticketing, registration and check-in, seating and room allocation, attendee matching, real-time engagement analytics, event data collection, post-event reporting, and customer insight generation.'
                     }
                 }
             ]
@@ -289,6 +300,15 @@
         const data = PARTNERS[partnerKey];
         if (!data) return;
         modalBody.innerHTML = '';
+
+        // Optional intro paragraph (e.g. Sunwah)
+        if (data.intro) {
+            const introEl = document.createElement('p');
+            introEl.className = 'modal__intro';
+            introEl.style.cssText = 'line-height:1.75;font-size:.9rem;opacity:.8;margin-bottom:1.5rem;padding-bottom:1.25rem;border-bottom:1px solid var(--c-line,#e5e7eb)';
+            introEl.textContent = data.intro[currentLang];
+            modalBody.appendChild(introEl);
+        }
 
         data.topics.forEach((topic, idx) => {
             const topicEl = document.createElement('div');
